@@ -18,5 +18,5 @@ EOF
   spec.rdoc_options << '--main' << 'README.rdoc' << '--title' <<  "scrAPI toolkit for Ruby" << '--line-numbers'
   spec.extra_rdoc_files = ['README.rdoc']
 
-  spec.add_dependency 'tidy_ffy', '>=0.1.2'
+  spec.add_dependency 'tidy_ffi', '>=0.1.2'
 end
